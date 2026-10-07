@@ -1,4 +1,4 @@
-Hello, I'm Fritz :smile:
+# Hello, I'm Fritz :smile:
 - 19-year-old game developer from the Philippines
 - currently pursuing an undergraduate degree in Information Systems
 
