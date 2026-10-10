@@ -1,6 +1,6 @@
 ### Hello, I'm Fritz :smile:
 - 19-year-old developer from the Philippines
-- currently pursuing an undergraduate degree in Information Systems
+- Currently pursuing an undergraduate degree in Information Systems
 
 ### I make games
 - At the moment, I'm working on a colony simulation game inspired by RimWorld and the manhwa "Pick Me Up: Infinite Gacha"
