@@ -3,6 +3,6 @@
 - Currently pursuing an undergraduate degree in Information Systems
 
 ### I make games
-- At the moment, I'm working on a colony simulation game inspired by RimWorld and the manhwa "Pick Me Up: Infinite Gacha"
+- At the moment, I'm working on a colony simulation game based on the manhwa "Pick Me Up: Infinite Gacha"
 - On [my itch.io page](https://xyztier.itch.io/) are submissions for game jams, open-source with their own repositories (usually has "jam" in the name)
 - Game progress and some more info are logged on [my Discord server](https://discord.gg/em9CyZY4tH) (please join I'm lonely)
